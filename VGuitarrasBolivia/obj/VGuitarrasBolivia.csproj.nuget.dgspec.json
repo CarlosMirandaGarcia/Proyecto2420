@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MMCC\\SIS 2420\\Proyecto2420\\VGuitarrasBolivia\\VGuitarrasBolivia.csproj": {}
+    "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\VGuitarrasBolivia.csproj": {}
   },
   "projects": {
-    "D:\\MMCC\\SIS 2420\\Proyecto2420\\VGuitarrasBolivia\\VGuitarrasBolivia.csproj": {
+    "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\VGuitarrasBolivia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MMCC\\SIS 2420\\Proyecto2420\\VGuitarrasBolivia\\VGuitarrasBolivia.csproj",
+        "projectUniqueName": "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\VGuitarrasBolivia.csproj",
         "projectName": "VGuitarrasBolivia",
-        "projectPath": "D:\\MMCC\\SIS 2420\\Proyecto2420\\VGuitarrasBolivia\\VGuitarrasBolivia.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\MMCC\\SIS 2420\\Proyecto2420\\VGuitarrasBolivia\\obj\\",
+        "projectPath": "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\VGuitarrasBolivia.csproj",
+        "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
+        "outputPath": "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

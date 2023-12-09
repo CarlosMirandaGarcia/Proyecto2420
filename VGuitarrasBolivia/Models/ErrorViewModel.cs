@@ -1,4 +1,4 @@
-namespace CITIwebApp.Models
+namespace VGuitarrasBolivia.Models
 {
     public class ErrorViewModel
     {

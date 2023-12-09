@@ -1,7 +1,16 @@
+using VGuitarrasBolivia.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add Connection String
+builder.Services.AddDbContext<MiContext>(options => {
+
+    options.UseSqlServer(builder.Configuration.GetConnectionString("CadenaConexion"));
+});
 
 var app = builder.Build();
 

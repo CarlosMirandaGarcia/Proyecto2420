@@ -1,8 +1,8 @@
-﻿using CITIwebApp.Models;
+﻿using VGuitarrasBolivia.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace CITIwebApp.Controllers
+namespace VGuitarrasBolivia.Controllers
 {
     public class HomeController : Controller
     {

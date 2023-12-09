@@ -1,4 +1,4 @@
-﻿namespace CITIwebApp.Dtos
+﻿namespace VGuitarrasBolivia.Dtos
 {
     public enum RolEmun
     {

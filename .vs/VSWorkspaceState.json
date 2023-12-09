@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\VGuitarrasBolivia",
+    "\\VGuitarrasBolivia\\Context",
+    "\\VGuitarrasBolivia\\Models",
+    "\\VGuitarrasBolivia\\Views",
+    "\\VGuitarrasBolivia\\Views\\Guitarras"
   ],
+  "SelectedNode": "\\VGuitarrasBolivia\\Views\\Guitarras\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

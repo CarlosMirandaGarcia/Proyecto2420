@@ -20,7 +20,7 @@ public class CLIENTE {
 	public string Nombre;
 	public PAGO m_PAGO;
 
-	public CLIENTE(){
+	public .CLIENTE(){
 
 	}
 

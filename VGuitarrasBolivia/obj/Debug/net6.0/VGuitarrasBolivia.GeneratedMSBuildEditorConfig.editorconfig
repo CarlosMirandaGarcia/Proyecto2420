@@ -40,6 +40,118 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Guitarras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpdGFycmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Guitarras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpdGFycmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Guitarras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpdGFycmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Guitarras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpdGFycmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Guitarras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpdGFycmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Home/Guitarra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHdWl0YXJyYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3MxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3MxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3MxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3MxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3MxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6mg50qidsz
+
+[D:/MMCC/SIS 2420/Proyecto2420/VGuitarrasBolivia/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qlfumxqnwr

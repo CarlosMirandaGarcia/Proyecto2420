@@ -13,10 +13,12 @@ namespace VGuitarrasBolivia.Controllers
     public class GuitarrasController : Controller
     {
         private readonly MiContext _context;
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public GuitarrasController(MiContext context)
+        public GuitarrasController(MiContext context, IWebHostEnvironment webHostEnvironment)
         {
             _context = context;
+            _webHostEnvironment = webHostEnvironment;
         }
 
         // GET: Guitarras
@@ -56,7 +58,7 @@ namespace VGuitarrasBolivia.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Modelo,Cuerdas,Precio")] Guitarra guitarra)
+        public async Task<IActionResult> Create([Bind("Id,Modelo,Cuerdas,Precio,Foto")] Guitarra guitarra)
         {
             if (ModelState.IsValid)
             {
@@ -88,7 +90,7 @@ namespace VGuitarrasBolivia.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Modelo,Cuerdas,Precio")] Guitarra guitarra)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Modelo,Cuerdas,Precio,FotoFile")] Guitarra guitarra)
         {
             if (id != guitarra.Id)
             {
@@ -99,6 +101,11 @@ namespace VGuitarrasBolivia.Controllers
             {
                 try
                 {
+                    if(guitarra.FotoFile != null)
+                    {
+                        await SubirFoto(guitarra);
+                    }
+
                     _context.Update(guitarra);
                     await _context.SaveChangesAsync();
                 }
@@ -116,6 +123,21 @@ namespace VGuitarrasBolivia.Controllers
                 return RedirectToAction(nameof(Index));
             }
             return View(guitarra);
+        }
+
+        private async Task SubirFoto(Guitarra guitarra)
+        {
+            //formar el nombre del archivo foto
+            string wwRootPatch = _webHostEnvironment.WebRootPath;
+            string extension = Path.GetExtension(guitarra.FotoFile!.FileName);
+            string nombreFoto = $"{guitarra.Modelo}{extension}";
+
+            guitarra.Foto = nombreFoto;
+
+            //copiar la foto en el proyecto del servidor
+            string path = Path.Combine($"{wwRootPatch}/fotos/", nombreFoto);
+            var fileStream = new FileStream(path, FileMode.Create);
+            await guitarra.FotoFile.CopyToAsync(fileStream);
         }
 
         // GET: Guitarras/Delete/5

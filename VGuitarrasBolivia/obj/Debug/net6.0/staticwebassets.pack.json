@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\wwwroot\\fotos\\les paiul.jpg",
+      "PackagePath": "staticwebassets\\fotos\\les paiul.jpg"
+    },
+    {
       "Id": "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

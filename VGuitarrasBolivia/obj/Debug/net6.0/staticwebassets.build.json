@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dCY/1dl+IH80FtlWB0DYrqTuWhWMDnHfM0ZzyfhUra0=",
+  "Hash": "WjRLtqXa3fm4IYZVKPjj7swQb4DHmvtYkHOeYqFyWTw=",
   "Source": "VGuitarrasBolivia",
   "BasePath": "_content/VGuitarrasBolivia",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fotos\\les paiul.jpg"
+    },
+    {
+      "Identity": "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\wwwroot\\fotos\\les paiul.png",
+      "SourceId": "VGuitarrasBolivia",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\wwwroot\\",
+      "BasePath": "_content/VGuitarrasBolivia",
+      "RelativePath": "fotos/les paiul.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fotos\\les paiul.png"
     },
     {
       "Identity": "D:\\1.ESTUDIO\\SIS-2420\\Proyecto\\VGuitarrasBolivia\\VGuitarrasBolivia\\wwwroot\\js\\site.js",
